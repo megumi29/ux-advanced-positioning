@@ -1,17 +1,17 @@
 /* Add your CSS Below */
-.one__b{
-    position: relative;
-    bottom: 20px;
-    left: 40px;
+.one__b {
+  position: relative;
+  bottom: 20px;
+  left: 40px;
 }
 
-.two__c{
-    position: absolute;
-    left: 233px;
-    bottom: 310px;
+.two__c {
+  position: absolute;
+  left: 233px;
+  bottom: 310px;
 }
 
-.three__a{
-    position: fixed;
-    left: 477px;
+.three__a {
+  position: fixed;
+  left: 300px;
 }
